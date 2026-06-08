@@ -1,0 +1,5 @@
+Al consultar la ruta GET /reportes, el sistema muestra todos los reportes registrados en memoria.
+La información aparece en formato JSON y permite visualizar los datos almacenados.
+Mientras el servidor está en funcionamiento.
+
+
